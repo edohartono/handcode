@@ -1,0 +1,32 @@
+Lessons page
+- listing programming languages
+- create new models (handcode_development)
+- create tables_name
+- styling lessons page
+
+Build code: start at Tuesday, Feb 12th 2019
+
+Tuesday, Feb 12th
+- Build code: 9am - 5pm (8 hours)
+
+Wednesday, Feb 13th
+- Build code: 7am - 2pm (7 hours)
+
+Thursday, Feb 14th
+- Build code: 1pm - 5pm (4 hours)
+- spend wasting time 8am - 2pm (unfoccuss)
+
+Friday, Feb 15th
+- Build code: 9am - 11am (2 hours)
+- spend wasting time 12pm - 2.15pm (unfoccuss)
+- unmood from 2.15 pm - 12.15 pm
+
+Saturday, Feb 16th
+- Build code: ?
+- spend wasting time : 11am - 4pm (5 hours)
+- unmood from : 4pm - ?
+
+
+Total wasting time (unfoccuss) : 8 hours 15 minutes
+Total time lost by broken mood : 10 hours
+Total time to build: 21 hours

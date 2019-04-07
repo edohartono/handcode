@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hand Code | Feel the magic in your hand</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all' %>
+    <%= stylesheet_link_tag 'animate', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+    <%= javascript_pack_tag 'vueapp' %>
+    <%= javascript_include_tag 'lib/typed' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

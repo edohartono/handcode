@@ -1,0 +1,40 @@
+<%= render "nav" %>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<div class="terminal">
+				<div class="bar">
+					<div class="red"></div>
+					<div class="yellow"></div>
+					<div class="green"></div>
+				</div>
+
+				<div class="screen">
+					<p class="text-line-1">root@10.0.0.1: ~$ <span class="typed-command-1"></span></p>
+					<p class="text-line-2">root@10.0.0.1: ~$ <span class="typed-command-2"></span></p>
+				</div>
+			</div>
+			
+		</div>
+
+		<div class="col-md-4">
+			<div class="screen-display">
+			<span class="element">
+				
+			</span>
+			</div>
+		</div>
+	</div> <!-- row -->
+
+	<div class="row text-center" style="margin-top: 20px">
+		<%= link_to "Upgrade Your Hand to Code", "/lessons", id: "sign_in", class: "btn btn-success" %>
+	</div>
+	
+</div>
+
+<div id="app">
+	{{ message }}
+</div>
+<%= javascript_include_tag 'lib/home' %>
+<%= render "footer" %>
